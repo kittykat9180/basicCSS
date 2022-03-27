@@ -1,0 +1,45 @@
+a {
+    border-style: double; 
+    color: black;
+}
+h1 {
+    color: #780373;
+}
+#bold-text{
+    font-weight: bold;
+}
+span{
+    text-decoration: underline;
+}
+#italic-text{
+    font-style: italic;
+}
+img:hover{
+    opacity: 0.5;
+}
+.form-box {
+    border-style: solid;
+    border-color: plum;
+    width: 70%;
+}
+div:hover {
+    font-weight: bolder;
+}
+input, textarea {
+    background-color: peachpuff;
+}
+table {
+    text-align: left;
+    border: 2px solid;
+    width: 50%;
+}
+th, td {
+    border-bottom: 1px solid;
+}
+th {
+    font-style: bold;
+    color: navy;
+}
+td {
+    color: #3a68a4;
+}
